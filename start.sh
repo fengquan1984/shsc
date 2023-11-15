@@ -4,8 +4,8 @@ export NEZHA_SERVER=${NEZHA_SERVER:-''}
 export NEZHA_PORT=${NEZHA_PORT:-''}
 export NEZHA_KEY=${NEZHA_KEY:-''}
 export NEZHA_TLS=${NEZHA_TLS:-''}
-export ARGO_DOMAIN=${ARGO_DOMAIN:-'mtf.xfox.shop'}
-export ARGO_TOK=${ARGO_TOK:-'{"AccountTag":"8165341bf06020b9417e04975dfec580","TunnelSecret":"i68N/qLYaq0KVSiufNJgZt3wKOh06mvBCOYe9ARuYY4=","TunnelID":"35723179-3346-4441-b050-42d8620322e5"}'}
+export ARGO_DOMAIN=${ARGO_DOMAIN:-'sca.xfox.shop'}
+export ARGO_TOK=${ARGO_TOK:-' {"AccountTag":"8165341bf06020b9417e04975dfec580","TunnelSecret":"kTefDwv1JNRfhMOemLVo0FTqpoqhpwWgpRMxicf6Ejg=","TunnelID":"b0b39137-19ae-4212-9ae3-84cc87cbf92b"} '}
 export CFIP=${CFIP:-'skk.moe'}
 export NAME=${NAME:-''}
 
